@@ -26,4 +26,4 @@ file system.
 
 ### Copyright
 
-2015 Git.Training.
+2016 Git.Training.
